@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+redis
+scrapegraphai
+crewai
+langchain
+pymongo
+requests
+playwright
+tavily-python
+google-search-results
+python-dotenv
+sentence-transformers
+langchain-mongodb
+langchain-community
+langchain-groq
+langchain-google-genai
